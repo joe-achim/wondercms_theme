@@ -22,7 +22,7 @@
 <div class="parallax-layer layer-2"></div>
 <div class="parallax-layer layer-1"></div>
 <div class="logo">
-    <center><img src="http://www.velik71.ru/image/catalog/logotip/velik71-new-logotip.png" alt=""  /></center>
+    <center><img src="<?=wCMS::asset('img/velik71-new-logotip.png')?>" alt="" /></center>
   </div>
 </div>
 	<?=wCMS::alerts()?>

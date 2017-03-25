@@ -77,7 +77,7 @@ body {
 .layer-1 {
   -webkit-animation: parallax_fg linear 20s infinite both;
   animation: parallax_fg linear 20s infinite both;
-  background: url(http://imapo.ru/img/parallax/1.png) 0 100% repeat-x;
+  background: url(../img/1.png) 0 100% repeat-x;
   z-index: 1;
   position: absolute;
   bottom: 0;
@@ -90,7 +90,7 @@ body {
 .layer-2 {
   -webkit-animation: parallax_fg linear 30s infinite both;
   animation: parallax_fg linear 30s infinite both;
-  background: url(http://imapo.ru/img/parallax/2.png) 0 100% repeat-x;
+  background: url(../img/2.png) 0 100% repeat-x;
   z-index: 1;
   position: absolute;
   bottom: 0;
@@ -103,7 +103,7 @@ body {
 .layer-3 {
   -webkit-animation: parallax_fg linear 55s infinite both;
   animation: parallax_fg linear 55s infinite both;
-  background: url(http://imapo.ru/img/parallax/3.png) 0 100% repeat-x;
+  background: url(../img/3.png) 0 100% repeat-x;
   z-index: 1;
   position: absolute;
   bottom: 0;
@@ -116,7 +116,7 @@ body {
 .layer-4 {
   -webkit-animation: parallax_fg linear 75s infinite both;
   animation: parallax_fg linear 75s infinite both;
-  background: url(http://imapo.ru/img/parallax/4.png) 0 100% repeat-x;
+  background: url(../img/4.png) 0 100% repeat-x;
   z-index: 1;
   position: absolute;
   bottom: 0;
@@ -129,7 +129,7 @@ body {
 .layer-5 {
   -webkit-animation: parallax_fg linear 95s infinite both;
   animation: parallax_fg linear 95s infinite both;
-  background: url(http://imapo.ru/img/parallax/5.png) 0 100% repeat-x;
+  background: url(../img/5.png) 0 100% repeat-x;
   z-index: 1;
   position: absolute;
   bottom: 0;
@@ -142,7 +142,7 @@ body {
 .layer-6 {
   -webkit-animation: parallax_fg linear 120s infinite both;
   animation: parallax_fg linear 120s infinite both;
-  background: url(http://imapo.ru/img/parallax/6.png) 0 100% repeat-x;
+  background: url(../img/6.png) 0 100% repeat-x;
   z-index: 1;
   position: absolute;
   bottom: 0;
@@ -154,7 +154,7 @@ body {
 
 .bike-1,
 .bike-2 {
-  background: url(http://imapo.ru/img/parallax/bike.png) 0 100% no-repeat;
+  background: url(../img/bike.png) 0 100% no-repeat;
   z-index: 1;
   position: absolute;
   bottom: 100px;
